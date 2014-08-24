@@ -17,15 +17,15 @@ a{
 
 .wrapper{
 	padding: 50px;
-	background-color:#3498DB;
+	background-color:white;
 	border-right: 25px solid #FFF;
 	border-left: 25px solid #FFF;
 	margin-top:25px;
 }
 
 #style_list{
-    background: #fafafa;
-    padding: 20px;
+	border: 4px solid #F4F4F4;
+    	padding: 20px;
 }
 
 #style_list p{
@@ -75,9 +75,9 @@ a{
 }
 
 #color_list{
-	background: #fafafa;
-    padding: 20px;
-    margin-bottom: 20px;
+	border: 4px solid #F4F4F4;
+    	padding: 20px;
+    	margin-bottom: 20px;
 }
 
 #color_list p{
